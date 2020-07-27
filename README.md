@@ -23,4 +23,4 @@ The only additional dependency for this solution, beyond the standard project de
 
 ## Training the agent
 
-Training the agent is achieved by running [Reinforce-Unity-PER-Dueling.ipynb] in this repo. There are a couple more implementations – one using plain Double DQN, and another frankly terrible one which applies both Double DQN and PER. Ignore these and go straight for the notebook linked above – this is where you'll find the (reasonably) good stuff. You can find a full report [here](Report.ipynb) - I reached the solution in a non-awful 309 episodes.
+Training the agent is achieved by running [Reinforce-Unity-PER-Dueling.ipynb](Reinforce-Unity-PER-Dueling.ipynb) in this repo. There are a couple more implementations – one using plain Double DQN, and another frankly terrible one which applies both Double DQN and PER. Ignore these and go straight for the notebook linked above – this is where you'll find the (reasonably) good stuff. You can find a full report [here](Report.ipynb) - I reached the solution in a non-awful 309 episodes.
