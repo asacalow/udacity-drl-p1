@@ -1,3 +1,5 @@
+# SumTree implementation from https://github.com/rlcode/per/blob/master/SumTree.py
+
 import numpy
 
 
