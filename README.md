@@ -4,7 +4,7 @@ Here be my solution to the first Navigation Project in Udacity's Deep Reinforcem
 
 ## Project Details
 
-The environment to solve is the Banana Collector Unity environment for the p1_navigation project, described in full in the environment's README [here](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation). For convenience, the relevant infos on the state and action spaces are reproduced below:
+The environment to solve is the Banana Collector for the p1_navigation project, described in full in its README [here](https://github.com/udacity/deep-reinforcement-learning/tree/master/p1_navigation). For convenience, the relevant infos on the state and action spaces are reproduced below:
 
 > A reward of +1 is provided for collecting a yellow banana, and a reward of -1 is provided for collecting a blue banana. Thus, the goal of your agent is to collect as many yellow bananas as possible while avoiding blue bananas.
 
@@ -23,4 +23,4 @@ The only additional dependency for this solution, beyond the standard project de
 
 ## Training the agent
 
-Training the agent is achieved by running the Reinforce-Unity-PER-Dueling notebook in this repo. There are a couple more implementations – one using plain Double DQN, and another frankly terrible one which applies both Double DQN and PER. Ignore these and go straight for Reinforce-Unity-PER-Dueling – this is where you'll find the (reasonably) good stuff.
+Training the agent is achieved by running [Reinforce-Unity-PER-Dueling.ipynb] in this repo. There are a couple more implementations – one using plain Double DQN, and another frankly terrible one which applies both Double DQN and PER. Ignore these and go straight for the notebook linked above – this is where you'll find the (reasonably) good stuff. You can find a full report [here](Report.ipynb) - I reached the solution in a non-awful 309 episodes.
